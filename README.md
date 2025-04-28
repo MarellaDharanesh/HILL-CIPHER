@@ -105,6 +105,9 @@ int main() {
 ```
 ## OUTPUT
 
+![Screenshot 2025-04-28 092223](https://github.com/user-attachments/assets/6c829f45-3be2-4dbc-9a32-a858c14e72ed)
+
+
 
 ## RESULT
 The program has successfully executed
